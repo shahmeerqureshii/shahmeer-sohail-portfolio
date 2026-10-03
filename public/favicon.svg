@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Shahmeer Sohail favicon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1b1b1f"/>
+      <stop offset="100%" stop-color="#09090b"/>
+    </linearGradient>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f4f4f5" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#d4d4d8" stop-opacity="0.85"/>
+      <stop offset="100%" stop-color="#a1a1aa" stop-opacity="0.9"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="128" height="128" rx="36" fill="url(#bg)"/>
+  <circle cx="64" cy="64" r="50" fill="none" stroke="url(#ring)" stroke-width="5.5" opacity="0.9"/>
+  <circle cx="64" cy="64" r="35" fill="rgba(255,255,255,0.02)" stroke="rgba(255,255,255,0.12)" stroke-width="2.2"/>
+  <text x="64" y="78" text-anchor="middle" fill="#f4f4f5" font-size="42" font-weight="700" font-family="'Segoe UI', Arial, sans-serif" letter-spacing="2">SS</text>
+</svg>
